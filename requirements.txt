@@ -1,0 +1,11 @@
+Flask==2.3.3
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+PyAudio==0.2.11
+google-generativeai==0.3.2
+transformers==4.35.2
+torch==2.6.0
+langchain==0.0.350
+nltk==3.8.1
+python-dotenv==1.0.0
+requests==2.31.0
