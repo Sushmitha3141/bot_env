@@ -32,7 +32,7 @@ except Exception as e:
 
 # Configure Gemini API
 # Replace with your actual API key
-genai.configure(api_key="AIzaSyC9Y22Y0mWaX6QHstBUMqlzDxvY_5Injls")
+genai.configure(api_key="YOUR_ACTUAL_API_KEY_HERE")
 
 chat_history = []
 MAX_MESSAGES = 15  # store last 15 exchanges (adjust as needed)
